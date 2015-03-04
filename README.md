@@ -1,9 +1,9 @@
 # CodeReviewTest
 
-*This* change **makes** a lot of sense.
+*This* change doesn't **make** a lot of sense.
 
-Line 1 is the first
+Line 1 is the second
 
 Line 2 is the second
 
-Line 3 is the third
+Line 3 is the first
